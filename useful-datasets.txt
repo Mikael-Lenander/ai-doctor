@@ -1,6 +1,8 @@
+Currenly used in the project:
+https://www.kaggle.com/datasets/artemminiailo/medicalconversations2disease
+
+Not used but might be useful:
 https://www.kaggle.com/datasets/willianoliveiragibin/medical-data-scraped
 https://www.kaggle.com/datasets/pythonafroz/medquad-medical-question-answer-for-ai-research
 https://www.kaggle.com/datasets/thedevastator/comprehensive-medical-q-a-dataset
-https://www.kaggle.com/datasets/artemminiailo/medicalconversations2disease
-https://www.sciencedirect.com/science/article/pii/S2667276624000143?via%3Dihub#bb0150
 https://www.kaggle.com/datasets/thedevastator/medical-conversation-corpus-100k
